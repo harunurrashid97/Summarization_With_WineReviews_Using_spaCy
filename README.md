@@ -2,7 +2,7 @@
 
 <a href="https://sourcerer.io/harunshimanto"><img src="https://img.shields.io/badge/Python-72%20commits-orange.svg" alt=""></a>
 
-Text summarization is the process of distilling the most important information from a source (or sources) to produce an abridged version for a particular user (or users) and task (or tasks).
+Text summarization is the process of distilling the most important information from a source (or sources) to produce an abridged version for a particular user (or users) and task (or tasks).I have one [article](https://hackernoon.com/summarization-with-wine-reviews-using-spacy-b49f18399577) on this.
 
 ![Text Summarization](summarization.gif)
 
